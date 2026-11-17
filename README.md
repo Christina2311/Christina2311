@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **3rd Year IT Student** at University of Mindanao
+- 🎓 **2nd Year IT Student** at University of Mindanao
 - 🤝 Looking to collaborate on **Python Car Rental & Service**
 - 🌱 Currently learning **Laravel · JavaScript · Java · MySQL**
 - 💬 Ask me about **CSS and HTML**
@@ -55,14 +55,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christina2311&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christina2311&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
