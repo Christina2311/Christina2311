@@ -1,34 +1,90 @@
-<h1 align="center">Hi 👋, I'm Christina</h1>
-<h3 align="center">A passionate 2nd year college student developer from the Philippines</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christina2311&label=Profile%20views&color=0e75b6&style=flat" alt="christina2311" /> </p>
+# Hi 👋, I'm Christina
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christina2311" alt="christina2311" /></a> </p>
+### Passionate IT Student · University of Mindanao 🇵🇭
 
-- 👯 I’m looking to collaborate on Python **Car Rental and Service**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Python+%7C+PHP+%7C+Laravel+Developer;Frontend+Enthusiast+%7C+CSS+%26+HTML;Always+learning+something+new!)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **PYTHON, JAVASCRIP, JAVA, HTML, CSS, LARAVEL, MYSQL**
+<img src="https://komarev.com/ghpvc/?username=christina2311&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
-- 🤝 I’m looking for help with Python **Car Rental and Service**
+</div>
 
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **3rd Year IT Student** at University of Mindanao
+- 🤝 Looking to collaborate on **Python Car Rental & Service**
+- 🌱 Currently learning **Laravel · JavaScript · Java · MySQL**
 - 💬 Ask me about **CSS and HTML**
+- ⚡ Fun fact: I love novels and movies (not horror!), and I enjoy learning other countries' languages
 
-- 📫 How to reach me **christinayute@gmail.com**
+---
 
-- ⚡ Fun fact **I Love to read novels and watch movie (except horror), and I like when someone teach me other countries languages**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/christina-yute-4bb65127a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/christina-yute-4bb65127a" height="30" width="40" /></a>
-<a href="https://instagram.com/tgyc_th03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tgyc_th03" height="30" width="40" /></a>
-<a href="https://www.behance.net/@chrisyute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@chrisyute" height="30" width="40" /></a>
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christina2311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christina2311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" height="165" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christina2311&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christina2311&show_icons=true&locale=en&layout=compact" alt="christina2311" /></p>
+## 🏆 GitHub Trophies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christina2311&show_icons=true&locale=en" alt="christina2311" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christina2311&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christina2311&" alt="christina2311" /></p>
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/christina-yute-4bb65127a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/tgyc_th03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/@chrisyute" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>✨ "Every expert was once a beginner." ✨</i>
+</div>
