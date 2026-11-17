@@ -16,8 +16,8 @@
 
 - 🎓 **2nd Year IT Student** at University of Mindanao
 - 🤝 Looking to collaborate on **Python Car Rental & Service**
-- 🌱 Currently learning **Laravel · JavaScript · Java · MySQL**
-- 💬 Ask me about **CSS and HTML**
+- 🌱 Currently learning **Python · JavaScript · Java · Flatter**
+- 💬 Ask me about **Python and UI Design**
 - ⚡ Fun fact: I love novels and movies (not horror!), and I enjoy learning other countries' languages
 
 ---
@@ -50,11 +50,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christina2311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christina2311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christina2311&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christina2311&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christina2311&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christina2311&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
